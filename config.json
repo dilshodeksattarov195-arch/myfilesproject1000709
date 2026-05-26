@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterconnect",
+        "uuid": 5740064,
+        "checksum": "o51ax"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
